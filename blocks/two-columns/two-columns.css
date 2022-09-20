@@ -1,0 +1,32 @@
+.two-columns {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}
+  
+.two-columns__brief {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 175px;
+    margin: 0;
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+    color: #2f80ed;
+}
+  
+.two-columns__main-text {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    min-width: 784px;
+    padding: 0;
+    margin: 0;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+}

@@ -1,0 +1,25 @@
+  .content_resources {
+    padding-top: 100px;
+    padding-bottom: 217px;
+  }
+  
+  .resources__logo-zone {
+    margin: auto;
+    margin-top: 80px;
+    width: 1100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .resources__link {
+    width: 270px;
+    height: 38px;
+    flex-grow: 3;
+  }
+  
+  .resources__link-image {
+    width: 270px;
+    height: 38px;
+    flex-grow: 3;
+  }

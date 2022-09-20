@@ -1,0 +1,24 @@
+.footer__column_content_social {
+    padding-top: 60px;
+  }
+  
+  .footer__social-icon {
+    width: 16px;
+    height: 16px;
+  }
+  
+  .footer__column-link {
+    margin-bottom: 10px;
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 0;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .social_logo_link {
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-left: 0;
+  }

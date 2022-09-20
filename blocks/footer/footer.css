@@ -1,0 +1,17 @@
+  .footer {
+    background-color: #1f1f1f;
+    /* color: #fff; */
+    min-height: 350px;
+    padding-bottom: 40px;
+    position: relative;
+  }
+  
+  .footer__columns {
+    flex-basis: 711px;
+    width: 90%;
+    margin: auto;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
