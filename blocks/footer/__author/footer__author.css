@@ -1,10 +1,9 @@
 .footer__author {
-    margin-top: 18px;
-    position: absolute;
-    bottom: 18px;
-    left: 5%;
-    line-height: 25px;
-    font-size: 18px;
-    font-weight: normal;
-    filter: invert(1);
-  }
+  margin-top: 18px;
+  bottom: 18px;
+  left: 5%;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  filter: invert(1);
+}

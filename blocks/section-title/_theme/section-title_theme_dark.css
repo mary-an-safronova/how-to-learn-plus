@@ -1,0 +1,5 @@
+.section-title_theme_dark {
+  filter: invert(1);
+  position: relative;
+  z-index: 1;
+}

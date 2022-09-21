@@ -1,0 +1,15 @@
+.table__cell {
+  margin-top: 60px;
+  flex-grow: 3;
+  margin-right: 33px;
+  max-width: 250px;
+  padding: 0;
+}
+
+.table__cell:nth-of-type(4) {
+  margin-right: 0;
+}
+
+.table__cell:nth-of-type(8) {
+  margin-right: 0;
+}

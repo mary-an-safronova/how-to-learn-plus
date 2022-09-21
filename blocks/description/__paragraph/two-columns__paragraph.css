@@ -1,0 +1,9 @@
+.two-columns__paragraph {
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+.two-columns__paragraph:nth-of-type(3) {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
