@@ -1,5 +1,5 @@
 .section-subtitle_theme_dark {
-  filter: invert(1);
+  color: #f2f2f2;
   position: relative;
   z-index: 1;
 }
